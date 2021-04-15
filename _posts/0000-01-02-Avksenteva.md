@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+---vcddv
+cmmdmc
+
 Use the left arrow to go back!
